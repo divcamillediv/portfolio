@@ -33,7 +33,7 @@ const Navbar = () => {
     const [navbar, setNavbar] = useState(false)
 
     return (
-        <header className="w-full mx-auto px-4 sm:px-20 fixed top-0 z-50 shadow dark:border-b dark:border-stone-600">
+        <header className="bg-teal-600 w-full mx-auto px-4 sm:px-20 fixed top-0 z-50 shadow dark:border-b dark:border-stone-600">
             {
             /*
 
